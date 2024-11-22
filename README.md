@@ -6,7 +6,7 @@
 
 A Simple and colorful game implemented in Python using Tkinter Library, play against a friend and enjoy the nostalgic feeling.
 
-![Tic-Tac-Toe](https://github.com/HimanshuChaudhery/Tic-Tac-Toe/blob/main/tic-tac-toe.jpg)
+![Tic-Tac-Toe](./images/tic-tac-toe.jpg)
 
 ---
 
